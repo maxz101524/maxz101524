@@ -6,4 +6,4 @@ Data Science + Information Science + Stats @Illinois
 
 ![Codewars](https://github.r2v.ch/codewars?user=maxz101524&hide_clan=true)
 
-**More About Me**: [Personal Website](https://maxwzy.notion.site/Max-Weiyi-Zhang-132900cd7b694cbb87254471afccf7e9)
+**More About Me**: [Personal Website](https://maxzwy.notion.site/Max-Weiyi-Zhang-13290ccd7b694cbb8725447fa1ccf7e9)
